@@ -1,0 +1,166 @@
+.bgimage{
+    background-image: url('/maskgroup.png');
+    height:952px;
+}
+.imagetwo{
+
+    margin-left: -250px;
+}
+
+.imageone{
+    margin-left: -720px;
+    margin-top: 250px;
+    position: absolute;
+    z-index: 1.2;
+}
+.totalimg{
+    margin-left: 380px;
+}
+.textupper{
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    
+    font-size: 64px;
+    line-height: 120%;
+    margin-top: 90px;
+    
+    /* or 77px */
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.textdown{
+    font-family: 'Satoshi';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+margin-top: 20px;
+margin-bottom: 40px;
+
+/* or 160% */
+
+color: #FFFFFF;
+}
+.btnfirst{
+    
+    width: 164px;
+height: 55px;
+radius:40px;
+background-color:rgb(80, 0, 133);
+color:white;
+border-radius: 40px;
+margin-right: 20px;
+}
+.textsecond{
+    font-family: Space Grotesk;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.textsecondcolumn{
+    font-family: Satoshi;
+font-size: 18px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.btnsecond{
+    width: 239px;
+height: 55px;
+border-radius: 40px;
+padding:16px, 32px, 16px, 32px;
+gap: 10px;
+background-color: #F8F2FF;
+color:rgb(212, 5, 253)
+;
+}
+.secondfirst{
+    margin-left: -100px;
+}
+.textthird{
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    
+    /* or 58px */
+    text-transform: capitalize;
+    
+    /* Black */
+    color: #20184E;
+    
+    
+}
+.textthirdtwo{
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    
+    /* or 29px */
+    
+    color: #666666;
+
+}
+.fourthsection{
+    background-image: url('./Rectangle\ 49.png');
+}
+.fourthheading{
+    font-family: Space Grotesk;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.fifthtext{
+    
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+
+/* or 58px */
+text-transform: capitalize;
+
+/* Black */
+color: #20184E;
+}
+footer{
+    height:551px;
+    width:fullwidth;
+    background-color: #260055;
+    color:white;
+}
+.footertext{
+    font-family: Satoshi;
+font-size: 18px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+width:285px;
+height:87px;
+}
+.footertext2{
+    font-family: Satoshi;
+font-size: 18px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
