@@ -164,3 +164,42 @@ letter-spacing: 0em;
 text-align: left;
 
 }
+.btnlogin{
+    width:153px;
+    height:48px;
+    
+    background-color:transparent;
+    border:1px solid rgb(121, 0, 168);
+    border-radius:40px;
+
+}
+.bground{
+    position: absolute;
+    width: 493px;
+    height: 493px;
+    left: 1142px;
+    top: 1417px;
+}
+.lastlayer{
+  background-image: url('./Group\ 1145.png');
+  padding:90px
+    
+}
+.newtextlast{
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+
+/* or 58px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.navbar-toggler-icon{
+    color:pink;
+}
+/* .navbar-toggler{
+    color:black;
+} */
